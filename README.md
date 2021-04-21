@@ -22,7 +22,7 @@ I try to upgrade my current catalina to big sur from mac os updater, and everyth
 |CPU|AMD Ryzen 5 3600|
 |Motherboard|MSI B550 Tomahawk|
 |RAM|Corsair Vengeance RGB Pro 2x8gb PC25600 Overclock to 3466 CL16|
-|GPU|Sapphire Pulse BE RX 6500 XT|
+|GPU|Sapphire Pulse BE RX 5600 XT|
 |Boot Drive|ADATA SPG SX6000 512gb Nvme SSD|
 
 ## What doesn't Work
